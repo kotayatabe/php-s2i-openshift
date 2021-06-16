@@ -5,7 +5,7 @@
 <head>
   <meta charset="utf-8">
 
-  <title>Example Health</title>
+  <title>医療機関</title>
   <meta name="description" content="Example Health Admin">
   <meta name="Max Shapiro" content="Example Health">
   <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans" rel="stylesheet">
@@ -25,7 +25,7 @@
       <div class="control">
         <div class="brand">
           <img class="logo" src="/images/fictional.svg" alt="example health logo">
-          <div class="Fictional">Example Health 2</div>
+          <div class="Fictional">888888888</div>
         </div>
         <menu class="menu">
           <menuitem class="lit">management console</menuitem>
